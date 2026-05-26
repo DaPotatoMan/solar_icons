@@ -18,3 +18,7 @@
 
 * Breaking change with icon names
 * README improvements
+
+## 0.1.0
+
+* Major change dealing with >flutter v3.44.0
