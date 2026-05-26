@@ -36,6 +36,8 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   ///contain all examples of icons that we're going to display
   static const icons = [
+    IconModel(icon: SolarIconsBold.forward, name: 'Bold Forward icon'),
+    IconModel(icon: SolarIconsOutline.forward, name: 'Outline Forward icon'),
     IconModel(
       icon: SolarIconsBold.notificationUnread,
       name: 'Bold Notification unread icon',

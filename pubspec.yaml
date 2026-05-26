@@ -1,12 +1,12 @@
 name: solar_icons
 description: Solar Icons is Solar icons which is 7000+ icons in different styles or 1200+ icons for each style available as a dart/flutter package
-version: 0.0.5
+version: 0.1.0
 repository: https://github.com/CoderNamedHendrick/solar_icons
 homepage: https://github.com/CoderNamedHendrick/solar_icons
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.41.0"
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
 
 
 flutter:
