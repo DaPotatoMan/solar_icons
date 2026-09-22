@@ -21,14 +21,6 @@ dev_dependencies:
 flutter:
 
   fonts:
-    - family: SolarIconsBold
+    - family: SolarIcons
       fonts:
-        - asset: fonts/SolarIconsBold.ttf
-
-    - family: SolarIconsBroken
-      fonts:
-        - asset: fonts/SolarIconsBroken.ttf
-
-    - family: SolarIconsOutline
-      fonts:
-        - asset: fonts/SolarIconsOutline.ttf
+        - asset: fonts/SolarIcons.ttf
