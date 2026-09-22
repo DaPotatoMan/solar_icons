@@ -1,8 +1,13 @@
-## 0.0.1
+## 0.1.0
 
-* Solar Icons release
+* Major change dealing with >flutter v3.44.0
 
-## 0.0.2
+## 0.0.5
+
+* Breaking change with icon names
+* README improvements
+
+## 0.0.4
 
 * README update
 
@@ -10,19 +15,10 @@
 
 * Breaking change with icon names
 
-## 0.0.4
+## 0.0.2
 
 * README update
 
-## 0.0.5
+## 0.0.1
 
-* Breaking change with icon names
-* README improvements
-
-## 0.1.0
-
-* Major change dealing with >flutter v3.44.0
-
-## Unreleased
-
-* Fix `star` icon in `SolarIconsOutline` and `SolarIconsBold` rendering as a loading-spinner glyph instead of a star (codepoints `0xEAC1` and `0xEADF` respectively).
+* Solar Icons release
